@@ -25,7 +25,7 @@ All below products/projects were 99% completed by me.
 ###  Currently
 - Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code.
 
-###Tips
+### Tips
 - Basically I can do everything, software, hardware, C/C++ Java(but I hate Java) Php perl Ruby ASM Arduino, mysql, mssql, Unity3d, Photoshop... anything you can image or you cannot image about AI ( computer is a branch of AI in the aspect of  human-machine interactive in my opinion)
 
 -  But I cannot win any "tech-interview" because my brain will just stop working for any tech-examination questions.
@@ -36,4 +36,4 @@ Thanks a lot for reading my Resume.
 Have a nice day !
 
 
-###End
+### End
