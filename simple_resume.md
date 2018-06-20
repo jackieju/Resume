@@ -1,4 +1,5 @@
 <h1 align = "center">Resume</h1>
+
 ### About Me
 
 - Name: Ju Weihua / 1977.02.Jan / Chinese 
@@ -21,14 +22,18 @@ All below products/projects were 99% completed by me.
 
 - Write an ios game "xiakexing"(now renamed to https://itunes.apple.com/cn/app/%E4%BE%A0%E5%AE%A2%E8%A1%8C2/id543763319?mt=8), which was ever been **top 150 in game category.**
 
+###  Currently
+- Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code.
 
-### Tips
-- Basically I can do everything, software, hardware, C/C++ Java(but I hate Java) Php perl Ruby ASM Arduino, mysql, mssql, Unity3d, Photoshop... 
+###Tips
+- Basically I can do everything, software, hardware, C/C++ Java(but I hate Java) Php perl Ruby ASM Arduino, mysql, mssql, Unity3d, Photoshop... anything you can image or you cannot image about AI ( computer is a branch of AI in the aspect of  human-machine interactive in my opinion)
+
 -  But I cannot win any "tech-interview" because my brain will just stop working for any tech-examination questions.
+
 - I will refuse to use Java and XML (Although I have 10+ years JAVA experience and was SCJP), because all that stuff just make things complicated.
 
 Thanks a lot for reading my Resume.
 Have a nice day !
 
 
-### End
+###End
