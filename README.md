@@ -20,7 +20,7 @@ All below products/projects were 99% completed by me.
 
 - In my startup in Singpore, I created a **iphone-brained robot**, with Arduino, in 2011. Video: https://v.youku.com/v_show/id_XMzI0OTg3MTky.html?spm=a2h0j.11185381.listitem_page1.5!5~A
 
-- Wrote an ios game "xiakexing"(now renamed to https://itunes.apple.com/cn/app/%E4%BE%A0%E5%AE%A2%E8%A1%8C2/id543763319?mt=8), which was ever been **top 150 in game category.**
+- Wrote an ios online game "xiakexing"(now renamed to https://itunes.apple.com/cn/app/%E4%BE%A0%E5%AE%A2%E8%A1%8C2/id543763319?mt=8), which was ever been **top 150 in game category.**
 
 ###  Currently
 - Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code.
