@@ -28,7 +28,7 @@ All below products/projects were 99% completed by me.
 ### Tips
 - Basically I can do everything, software, hardware, C/C++ Java(but I hate Java) Php perl Ruby ASM Arduino, mysql, mssql, Unity3d, Photoshop... anything you can image or you cannot image about AI ( computer is a branch of AI in the aspect of  human-machine interactive in my opinion)
 
-- But I cannot win any "tech-interview" because my brain will just stop working for any tech-examination questions. It's my problem and it was true in the past 20 years.
+- But I cannot win any "tech-interview examination" because my brain will just stop working for any tech-examination questions. It's my problem and it was true in the past 20 years.
 
 - I will refuse to use Java and XML (Although I have 10+ years JAVA experience and got SCJP in 2001), because all that stuff just make things complicated.
 
