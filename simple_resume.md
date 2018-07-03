@@ -22,6 +22,8 @@ All below products/projects were 99% completed by me.
 
 - Wrote an ios online game "xiakexing"(now renamed to https://itunes.apple.com/cn/app/%E4%BE%A0%E5%AE%A2%E8%A1%8C2/id543763319?mt=8), which was ever been **top 150 in game category.**
 
+- A C/C++ parser for translating C code to Ruby (tested on a million lines of product)
+
 ###  Currently
 - Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code.
 
