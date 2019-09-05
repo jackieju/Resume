@@ -7,9 +7,23 @@
 - Contact: Jackie.ju@gmail.com / (+86) 13818889310
 - Linkedin: https://www.linkedin.com/in/jackie-ju-96767613/
 - github: http://github.com/jackieju
-- This resume is also available on github at https://github.com/jackieju/Resume/blob/master/simple_resume.md
+- This resume is also available on github at https://github.com/jackieju/Resume/blob/master/detailed_resume.md
 
-### Background
+
+### Skills & Experience Summary
+ - 20 year2 c/c++ development experience.
+ - 18 years java developement experience. (Has SCJP cetificate)
+ - 22 years javascripts/html/css development experience.
+ - 3 years perl/php development experience in 2006-2008
+ - Create my own computer language cscript in 2001
+ - 13 years Ruby development experience, which is currently my favorite language.
+ - 8 years Objective-C and iOS development experience.
+ - 15 years experience of mySQL, 3 years MSSQL, DB2, Oracle experience.
+ - 22 years development experience on window, 13 years development experience on linux/mac.
+ - 3 years as CTO in Adways, manage 100+ developer, 3 departments, 10+ projects crossing Ad-platform/3d gaming/SNS Game/iOS App.
+ 
+
+### Highlight Projects
 All below products/projects were 99% completed by me.
 
 - When building the platform/middleware for stockstar.com, I created a **new computer language (script engine)**. I open-sourced it in 2003, and modified it for gaming and moved it to github at https://github.com/jackieju/mse 
@@ -25,14 +39,8 @@ All below products/projects were 99% completed by me.
 - A C/C++ parser for translating C code to Ruby (tested on a million lines product)
 
 ###  Currently
-- Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code. (Untiy3D online game in spare time)
+- Currently, I am working on SAP B1 Cloud NLP(natural language process) Sevice, desgin and code. 
 
-### Tips
-- Basically I can do everything, software, hardware, C/C++ Java(but I hate Java) Php perl Ruby HTML/CSS/JS ASM Arduino, iOS(OBJC, not fan of swift), mysql, mssql, Unity3d, Photoshop... anything you can image or you cannot image about AI ( computer science is a branch of AI in the aspect of  human-machine interactive in my opinion)
-
-- But I cannot pass any "tech-interview examination" because my brain will just stop working for any tech-examination questions. It's my problem and it was true in the past 20 years.
-
-- I will refuse to use Java and XML (Although I have 10+ years JAVA experience and got SCJP in 2001), because all that stuff just make things complicated.
 
 Thanks a lot for reading my Resume.
 Have a nice day !

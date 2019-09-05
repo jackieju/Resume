@@ -16,9 +16,9 @@ All below products/projects were 99% completed by me.
 
 - When building the platform for stockstar.com, I wrote a **data engine which crosses linux/windows/aix and db2/mssql/oracle.**
 
-- When working for Adways.net, as CTO. I built all dev process, technical infrastructure and responsible for new production/strategy research. In 2007, I designed the new stragegy:1. SNS app, 2. IPhone App, 3. Ali App, which became company's main income source in the following 10 years.
+- When working for Adways.net, as CTO. I built all dev process, technical infrastructure and responsible for new production/strategy research. In 2007, I designed 3 new stragegies for company:1. SNS App, 2. iPhone App, 3. Ali App, which became company's main income source in the following 10 years.
 
-- In my startup in Singpore, I created an  **iphone-brained robot**, with Arduino, in 2011. Video: https://v.youku.com/v_show/id_XMzI0OTg3MTky.html?spm=a2h0j.11185381.listitem_page1.5!5~A
+- In my startup in Singpore, I created an  **iPhone-brained robot**, with Arduino, in 2011. Video: https://v.youku.com/v_show/id_XMzI0OTg3MTky.html?spm=a2h0j.11185381.listitem_page1.5!5~A
 
 - Wrote an ios online game "xiakexing"(now renamed to https://itunes.apple.com/cn/app/%E4%BE%A0%E5%AE%A2%E8%A1%8C2/id543763319?mt=8), which was ever been **top 150 in game category.**
 
