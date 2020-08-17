@@ -26,7 +26,7 @@
 
 - 2020年，开发了ABAP到ruby的翻译工具Abap2Ruby(https://github.com/jackieju/abap2ruby ).
 
-- 2020年，开发了任意语言到任意语言的开发基础工具xcompiler(https://github.com/jackieju/xcompiler ).
+- 2020年，开发了任意语言到任意语言的编译工具xcompiler(https://github.com/jackieju/xcompiler ).
 
 
 
