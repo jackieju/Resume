@@ -22,11 +22,11 @@
 
 - 2018年，作为SAP B1 Cloud NLP Service(自然语言处理云平台)架构师进行平台设计和算法编写。
 
-- 2019年，开发了cpp到ruby的翻译工具CPP2Ruby(https://github.com/jackieju/CPP2Ruby)，在百万行级别项目中使用。
+- 2019年，开发了cpp到ruby的翻译工具CPP2Ruby(https://github.com/jackieju/CPP2Ruby )，在百万行级别项目中使用。
 
-- 2020年，开发了ABAP到ruby的翻译工具Abap2Ruby(https://github.com/jackieju/abap2ruby).
+- 2020年，开发了ABAP到ruby的翻译工具Abap2Ruby(https://github.com/jackieju/abap2ruby ).
 
-- 2020年，开发了任意语言到任意语言的开发基础工具xcompiler(https://github.com/jackieju/xcompiler).
+- 2020年，开发了任意语言到任意语言的开发基础工具xcompiler(https://github.com/jackieju/xcompiler ).
 
 
 
